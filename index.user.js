@@ -20,8 +20,8 @@
 // @connect      yangqianguan.com
 // @downloadURL  https://gitlab.yangqianguan.com/web/tampermonkey/-/raw/master/index.user.js
 // @require      https://ng.wangerry.com/GM_config.js
-// @require      https://openuserjs.org/src/libs/sizzle/GM_config.min.js
 // @require      https://ng.wangerry.com/moment.min.js
+// @homepageURL  https://github.com/KennethChang1/test/blob/main/index.user.js
 // @require      https://ng.wangerry.com/axios.min.js
 // @noframes
 // ==/UserScript==
