@@ -18,7 +18,7 @@
 // @connect      fintopia.tech
 // @connect      geteasycash.asia
 // @connect      yangqianguan.com
-// @downloadURL  https://gitlab.yangqianguan.com/web/tampermonkey/-/raw/master/index.user.js
+// @downloadURL  https://github.com/KennethChang1/test/raw/main/index.user.js
 // @require      https://ng.wangerry.com/GM_config.js
 // @require      https://ng.wangerry.com/moment.min.js
 // @homepageURL  https://github.com/KennethChang1/test/blob/main/index.user.js
